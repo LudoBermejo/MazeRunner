@@ -1,0 +1,25 @@
+﻿#pragma once
+
+#include "il2cpp-config.h"
+
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+#include <stdint.h>
+
+struct t1094;
+struct t783;
+
+#include "t7.h"
+
+struct  t1094  : public t7
+{
+	t783 * f2;
+};
+struct t1094_SFs{
+	t1094 * f0;
+	t1094 * f1;
+};

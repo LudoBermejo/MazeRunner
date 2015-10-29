@@ -1,0 +1,13 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="Generate">
+			<method name="replay"/>
+		</type>
+		<type fullname="MouseLooker">
+			<method name="onClickButtonReplay"/>
+		</type>
+		<type fullname="UIController">
+			<method name="onClickReplay"/>
+		</type>
+	</assembly>
+</linker>
